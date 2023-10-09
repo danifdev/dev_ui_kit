@@ -12,3 +12,4 @@ linter:
     public_member_api_docs: false
     sort_constructors_first: true
     prefer_const_constructors: true
+    avoid_field_initializers_in_const_classes : true
